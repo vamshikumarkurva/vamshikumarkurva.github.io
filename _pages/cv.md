@@ -27,7 +27,3 @@ Work experience
 * July 2017 - Present: Data Scientist
   * FireEye cybersecurity
   * Duties included: Developing scalable and efficient ML algorithms for phishing detection and Malware classification
-  
-Resume
-======
-* **[Resume](../files/vamshi_resume.pdf)**
