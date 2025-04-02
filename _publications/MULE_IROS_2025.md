@@ -7,4 +7,5 @@ The framework consists of a nominal policy responsible for baseline locomotion a
 We validate the proposed approach through large-scale simulation experiments in Isaac Gym and real-world hardware deployment on a Unitree Go1 quadruped.'
 date: 2025/03/02
 projecturl: 'https://www.stochlab.com/MULE/'
+paperurl: 'https://www.stochlab.com/MULE/'
 ---
