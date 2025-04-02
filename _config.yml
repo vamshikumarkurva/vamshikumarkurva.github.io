@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Vamshi Kumar Kurva"
   avatar           : "vamshi_final.png"
-  bio              : "ML Enthusiast"
+  bio              : "PhD student at IISc"
   location         : "Bangalore"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=tHjGrMoAAAAJ&hl=en"
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/Vamshi_Kumar_Kurva"
+  researchgate     :  # "https://www.researchgate.net/profile/Vamshi_Kumar_Kurva"
   uri              :
   bitbucket        :
   codepen          :
@@ -121,6 +121,7 @@ author:
 include:
   - .htaccess
   - _pages
+  - _publications
   - files
 exclude:
   - "*.sublime-project"
