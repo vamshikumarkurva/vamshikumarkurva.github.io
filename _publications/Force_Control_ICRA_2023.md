@@ -1,6 +1,7 @@
 ---
 title: "Force control for robust quadruped locomotion: A linear policy approach"
 collection: publications
+permalink: 'https://www.stochlab.com/projects/LinPolForceControlQuad.html'
 excerpt: 'In this work, we proposed a computationally efficient
 control architecture consisting of a linear policy and a QP
 that can achieve stable and robust locomotion and handle
