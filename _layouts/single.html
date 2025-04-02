@@ -48,6 +48,10 @@ layout: default
         {% elsif page.citation %}
           <p>Recommended citation: {{ page.citation }} </p>
         {% endif %}
+
+        {% if page.projecturl %}
+          <p>Project Website: <a href="{{ page.projecturl }}" target="_blank">{{ page.projecturl }}</a></p>
+        {% endif %}
     
         </header>
       {% endunless %}
