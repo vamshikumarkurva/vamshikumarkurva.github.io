@@ -10,5 +10,5 @@ joystick and helped in direction-controlled walking for realworld applications'
 date: 2023/05/29
 venue: '2023 IEEE International Conference on Robotics and Automation (ICRA)'
 paperurl: '[https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10883701](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10161080)'
-project website: 'https://www.stochlab.com/projects/LinPolForceControlQuad.html'
+projecturl: 'https://www.stochlab.com/projects/LinPolForceControlQuad.html'
 ---
