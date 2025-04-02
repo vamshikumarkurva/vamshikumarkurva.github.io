@@ -86,9 +86,9 @@ author:
   location         : "Bangalore"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=tHjGrMoAAAAJ&hl=en"
   email            :
-  researchgate     :  https://www.researchgate.net/profile/Vamshi_Kumar_Kurva
+  researchgate     :  "https://www.researchgate.net/profile/Vamshi_Kumar_Kurva"
   uri              :
   bitbucket        :
   codepen          :
@@ -106,7 +106,7 @@ author:
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  math.stackexchange    : https://math.stackexchange.com/users/688895/vamshi-kumar-kurva
+  math.stackexchange    : "https://math.stackexchange.com/users/688895/vamshi-kumar-kurva"
   steam            :
   tumblr           :
   twitter          : #"replacethistwitterhandle"
