@@ -8,13 +8,13 @@ author_profile: true
 
 - ### **MULE: Multi-terrain and Unknown Load Adaptation for Effective Quadrupedal Locomotion**  [[Video](https://www.youtube.com/watch?v=bJhk0-6y8XE)] [[Website](https://www.stochlab.com/MULE/)]
 **Submitted to**: _International Conference on Intelligent Robots and Systems (IROS), 2025_ \
-**Authors**: **Vamshi Kumar Kurva**, Shishir Kolathaya
+**Authors**: ___Vamshi Kumar Kurva__, Shishir Kolathaya_
 
 ---------------------------------
 
 - ### **Adaptive control of Quadruped robot under varying load conditions** [[Paper](https://ieeexplore.ieee.org/document/10883701?denied=)] [[Website](https://www.stochlab.com/AdaptiveMPC/)] 
 **Published in**: _Indian Control Conference (ICC), 2024_ \
-**Authors**: __Vamshi Kumar Kurva__, Shishir Kolathaya
+**Authors**: ___Vamshi Kumar Kurva__, Shishir Kolathaya_
 
 ---------------------------------
 
@@ -26,6 +26,6 @@ author_profile: true
 
 # ⚙ Patents:
 - ### **System and method for identifying phishing cyber-attacks through deep machine learning via a convolutional neural network (CNN) engine** [[US10834128B1](https://patents.google.com/patent/US10834128B1/en)]
-**Authors**: Balamurugan Rajagopalan, Rahul Mohandas, Santhosh Kumar Ramachandran, **Vamshi Kumar Kurva**
+**Authors**: _Balamurugan Rajagopalan, Rahul Mohandas, Santhosh Kumar Ramachandran, __Vamshi Kumar Kurva___
 
 ---------------------------------
