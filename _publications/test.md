@@ -1,15 +1,14 @@
 ---
 title: "Force control for robust quadrupedal locomotion: A Linear Policy approach"
 collection: publications
-permalink: /publication/17-01-2023-force-lp-ICRA-2023
-excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
-date: 2023-01-17
+permalink: /publication/force-control-ICRA-2023
+excerpt: 'In this work, we proposed a computationally efficient control architecture consisting of a linear policy and a QP that can achieve stable and robust locomotion and handle external disturbances. We showed that our policy achieved zero-shot generalization to commanded velocities from the joystick and helped in direction-controlled walking for realworld applications'
+date: 2023-05-29
 venue: 'International Conference on Robotics and Automation (ICRA)'
-paperurl: #'https://www.stochlab.com/papers/force_lp_ICRA_2023.pdf'
-citation: #'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'https://www.stochlab.com/papers/force_lp_ICRA_2023.pdf'
 ---
 
-**Authors**: Aditya Shirwatkar\*, Vamshi Kumar Kurva\*, Devaraju Vinoda, **Aman Singh**, Aditya Sagi, Himanshu Lodha, Bhavya Giri Goswami, Shivam Sood, Ketan Nehete, Shishir Kolathaya
+**Authors**: Aditya Shirwatkar\*, **Vamshi Kumar Kurva**\*, Devaraju Vinoda, Aman Singh, Aditya Sagi, Himanshu Lodha, Bhavya Giri Goswami, Shivam Sood, Ketan Nehete, Shishir Kolathaya
 
 **Abstract**: This work presents a simple linear policy for direct force control for quadrupedal robot locomotion. The motivation
 is that force control is essential for highly dynamic and agile motions. We learn a linear policy to generate end-foot trajectory
