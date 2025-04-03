@@ -2,10 +2,10 @@
 title: "Force control for robust quadrupedal locomotion: A Linear Policy approach"
 collection: publications
 permalink: /publication/force-control-ICRA-2023
-excerpt: 'In this work, we proposed a computationally efficient control architecture consisting of a linear policy and a QP that can achieve stable and robust locomotion and handle external disturbances. We showed that our policy achieved zero-shot generalization to commanded velocities from the joystick and helped in direction-controlled walking for realworld applications'
+excerpt: #'In this work, we proposed a computationally efficient control architecture consisting of a linear policy and a QP that can achieve stable and robust locomotion and handle external disturbances. We showed that our policy achieved zero-shot generalization to commanded velocities from the joystick and helped in direction-controlled walking for realworld applications'
 date: 2023-05-29
 venue: 'International Conference on Robotics and Automation (ICRA)'
-paperurl: 'https://www.stochlab.com/papers/force_lp_ICRA_2023.pdf'
+paperurl: #'https://www.stochlab.com/papers/force_lp_ICRA_2023.pdf'
 ---
 
 **Authors**: Aditya Shirwatkar\*, **Vamshi Kumar Kurva**\*, Devaraju Vinoda, Aman Singh, Aditya Sagi, Himanshu Lodha, Bhavya Giri Goswami, Shivam Sood, Ketan Nehete, Shishir Kolathaya
@@ -21,4 +21,4 @@ reference trajectory data, and then the linear policy is trained using imitation
 reference trajectory. We demonstrate this compute-efficient controller on our robot Stoch3 in simulation and real-world
 experiments on indoor and outdoor terrains with push recovery.
 
-**Links**: [Paper](https://www.stochlab.com/papers/force_lp_ICRA_2023.pdf) / [Video](https://www.youtube.com/watch?v=k89QdImcqdo)
+**Links**: [Paper](https://ieeexplore.ieee.org/document/10161080) / [Video](https://www.youtube.com/watch?v=k89QdImcqdo) / [Website](https://www.stochlab.com/projects/LinPolForceControlQuad.html)
