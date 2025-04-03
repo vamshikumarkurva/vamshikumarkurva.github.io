@@ -3,7 +3,7 @@ title: "MULE: Multi-terrain and Unknown Load Adaptation for Effective Quadrupeda
 collection: publications
 permalink: /publication/MULE
 date: 2025-03-02
-venue: #'Tenth Indian Control Conference (ICC)'
+venue: '(Submitted to IROS)'
 paperurl: #'https://ieeexplore.ieee.org/document/10883701?denied='
 ---
 
