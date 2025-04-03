@@ -85,9 +85,6 @@ for row, item in publications.iterrows():
     
     if len(str(item.paper_url)) > 5:
         md += "\npaperurl: '" + item.paper_url + "'"
-
-    if "projecturl" in item and len(str(item.projecturl)) > 5:
-        md += "\nprojecturl: '" + item.projecturl + "'"
     
     md += "\ncitation: '" + html_escape(item.citation) + "'"
     
@@ -97,9 +94,6 @@ for row, item in publications.iterrows():
     
     if len(str(item.paper_url)) > 5:
         md += "\n\n<a href='" + item.paper_url + "'>Download paper here</a>\n" 
-
-    if "projecturl" in item and len(str(item.projecturl)) > 5:
-        md += "\n\n<a href='" + item.projecturl + "'>Project Website</a>\n"
         
     if len(str(item.excerpt)) > 5:
         md += "\n" + html_escape(item.excerpt) + "\n"
@@ -110,5 +104,4 @@ for row, item in publications.iterrows():
        
     with open("../_publications/" + md_filename, 'w') as f:
         f.write(md)
-
 
