@@ -6,7 +6,7 @@ author_profile: true
 ---
 ---------------------------------
 
-- ### **MULE: Multi-terrain and Unknown Load Adaptation for Effective Quadrupedal Locomotion**  [[Video](https://www.youtube.com/watch?v=bJhk0-6y8XE)] [[Website](https://www.stochlab.com/MULE/)]
+- ### **MULE: Multi-terrain and Unknown Load Adaptation for Effective Quadrupedal Locomotion**  [[Paper](https://arxiv.org/pdf/2505.00488)][[Video](https://www.youtube.com/watch?v=bJhk0-6y8XE)] [[Website](https://www.stochlab.com/MULE/)]
 **Submitted to**: _International Conference on Intelligent Robots and Systems (IROS), 2025_ \
 **Authors**: ___Vamshi Kumar Kurva__, Shishir Kolathaya_
 
